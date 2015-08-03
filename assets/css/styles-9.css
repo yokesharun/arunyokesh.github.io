@@ -424,7 +424,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skills-item{
     position: absolute;
-    width:25%;
+    width:20%;
 	height:0;
     bottom:0;
     border-right: 3px solid #fff;
@@ -437,18 +437,23 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 .skill2{
-    left:25%;
+    left:20%;
     background: #509B9E;
 }
 
 .skill3{
-    left:50%;
+    left:40%;
     background: #334959;
 }
 
 .skill4{
-    left:75%;
+    left:60%;
     background: #B2C7C8;
+}
+
+.skill5{
+    left:80%;
+    background: #9266CC;
 }
 
 .percent{
@@ -456,7 +461,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     display: block;
     width:100%;
     top:-70px;
-    font-size: 48px;
+    font-size: 46px;
     text-align: center;
 }
 
