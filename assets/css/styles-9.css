@@ -294,6 +294,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #home .container{
+    color: #0A86E7;
     position: fixed;
     top: 50%;
     width: 100% !important;
@@ -729,6 +730,10 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     font-size: 44px;
     line-height: 44px;
     cursor: pointer;
+}
+
+.scrollto{
+     color: #0A86E7;
 }
 
 #project-slider{
