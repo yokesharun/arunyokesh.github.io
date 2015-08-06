@@ -286,7 +286,7 @@ $(document).ready(function() {
 		
 		var infoWindow = new google.maps.InfoWindow;
 		
-		var pointLatLng = new google.maps.LatLng(mapPoint.lat, mapPoint.lng);
+		var pointLatLng = new google.maps.LatLng(11.9310, 79.7852);
 
 		var mapOptions = {
 			zoom: mapPoint.zoom,
