@@ -306,7 +306,7 @@ $(document).ready(function() {
 			position: pointLatLng, 
 			map: map, 
 			title:"Reach Me",
-			icon: "assets/images/pink-dark.png"
+			icon: "assets/images/pin-dark.png"
 		});
 		
 		var mapLink = 'https://www.google.com/maps/preview?ll=11.9310,79.7852&z=14&q=Jayamoorthy Raja Nagr, Mudaliarpet, Pondicherry-605 004';
