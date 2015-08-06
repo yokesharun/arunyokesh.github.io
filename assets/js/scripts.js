@@ -305,15 +305,13 @@ $(document).ready(function() {
 		var marker = new google.maps.Marker({
 			position: pointLatLng, 
 			map: map, 
-			title:mapPoint.linkText,
-			icon: mapPoint.icon
+			title:"Reach Me",
+			icon: "assets/images/pink-dark.png"
 		});
 		
-		var mapLink = 'https://www.google.com/maps/preview?ll='+mapPoint.lat+','+mapPoint.lng+'&z=14&q='+mapPoint.mapAddress;
+		var mapLink = 'https://www.google.com/maps/preview?ll=11.9310,79.7852&z=14&q=Jayamoorthy Raja Nagr, Mudaliarpet, Pondicherry-605 004';
 		
-		var html = '<div class="infowin">'
-				+ mapPoint.infoText
-				+ '<a href="'+mapLink+'" target="_blank">'+mapPoint.linkText+'</a>'
+		var html = '<div class="infowin">I Am Here!<a href="'+mapLink+'" target="_blank">View More</a>'
 				+ '</div>';
 
 		google.maps.event.addListener(marker, 'mouseover', function() {
