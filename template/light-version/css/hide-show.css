@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+#switch {
+	font-family: 'Raleway', sans-serif;
+	background: #fff;
+	position: fixed;
+	display: none;
+	top: 65px;
+	z-index: 9999;
+	width: 240px;
+	margin-left: -200px;
+	border-radius: 0 10px 10px 0;
+	-webkit-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+}
+#switch h4 {
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+	padding-top: 5px;
+	border-bottom: #ededed 1px solid;
+	font-weight:600;
+}
+#switch ul {
+	padding: 0px;
+	margin: 0px;
+}
+#switch ul li {
+	display: inline-block;
+}
+#switch ul li a {
+	text-transform: uppercase;
+	margin-bottom: 0;
+	font-size: 12px;
+	height: 30px;
+	width: 30px;
+	border-radius: 15px;
+}
+#show {
+	z-index: 99999;
+	position: fixed;
+	left: 0;
+	top: 65px;
+	background: #fff;
+	border-radius: 0 10px 10px 0;
+	padding: 12px;
+	cursor: pointer;
+	-webkit-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+}
+#setting {
+	font-size: 22px;
+}
+.wrap_pattern, .switchlayout {
+	margin-bottom: 10px;
+}
+.wrap_pattern h4 {
+	margin-bottom: 5px!important;
+}
+.content-switcher {
+	padding: 16px;
+	overflow: hidden;
+}
+.content-switcher .m-btn {
+	padding: 5px 10px;
+	font-size: 12px;
+	min-width: 70px;
+}
+.button.small.color.switch {
+	font-size: 12px;
+	text-transform: none;
+	width: 40px;
+	margin: 5px 0px;
+	font-weight: normal;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3) !important;
+	letter-spacing: 0;
+}
+#hide {
+	cursor: pointer;
+	line-height: 13px;
+	margin-bottom: 0px;
+	font-size: 20px;
+	margin-bottom: 0px;
+	position: absolute;
+	background-color: #fff;
+	top: 10px;
+	right: 10px;
+}
+#hide i {
+	opacity: 0.8;
+	transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+}
+#hide i:hover {
+	opacity: 0.4;
+}
+.button {
+	border-radius: 5px;
+	cursor: pointer;
+	display: inline-block;
+	margin: 7px 7px 0 0;
+	height: 15px;
+	padding: 5px;
+	width: 34px;
+}
+#switch p {
+	margin-top: 10px;
+	margin-bottom: 0px;
+	font-size: 14px;
+}
+.styled-select select {
+	background: #f5f5f5;
+	border: #ededed 1px solid;
+	width: 200px;
+	padding: 3px;
+	font-size: 14px;
+	line-height: normal;
+	outline: none;
+	border-radius: 5px;
+	-webkit-appearance: none;
+	margin-top: 6px;
+	margin-right: 0;
+	margin-bottom: 6px;
+	margin-left: 0;
+}
