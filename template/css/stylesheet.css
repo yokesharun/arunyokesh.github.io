@@ -96,7 +96,7 @@ section#slider {
 }
 /* Static Slider Picture */
 .slider-bg-static {
-	background-image: url(http://webagate.com/demos/alia/onepage-vcard-resume-portfolio-website-template/img/slider/static-bg/1.jpg);
+	background-image: url(../img/yokesh/1.jpg);
 	background-size: cover;
 	background-position: 50% 50%;
 	background-attachment: fixed;
@@ -105,7 +105,7 @@ section#slider {
 }
 /* Animated Slider Picture */
 .slider-bg-animated {
-	background-image: url(http://webagate.com/demos/alia/onepage-vcard-resume-portfolio-website-template/img/slider/animted-bg/1.jpg);
+	background-image: url(../img/yokesh/2.jpg);
 	background-size: cover;
 	background-position: 50% 50%;
 	background-attachment: fixed;
@@ -326,7 +326,7 @@ section {
 }
 /* ------------------------------------------------------------------------------------------ About Me Starts */
 #about {
-	background-image: url(http://webagate.com/demos/alia/onepage-vcard-resume-portfolio-website-template/img/texture/white-dot.png);
+	background-image: url(../img/white-dot.png);
 	background-repeat: repeat;
 }
 #about .personal-info {
@@ -375,7 +375,7 @@ section {
 
 /* ------------------------------------------------------------------------------------------ My Skills Starts */
 #myskills {
-	background: url(http://webagate.com/demos/alia/onepage-vcard-resume-portfolio-website-template/img/parallax/1.jpg) 50% 0 repeat-y fixed;
+	background: url(../img/1.jpg) 50% 0 repeat-y fixed;
 	color: #fff;
 	background-size: cover;
 }
@@ -491,7 +491,7 @@ section {
 
 /* ------------------------------------------------------------------------------------------ Process Starts */
 #process {
-	background: url(http://webagate.com/demos/alia/onepage-vcard-resume-portfolio-website-template/img/parallax/2.jpg) 50% 0 repeat-y fixed;
+	background: url(../img/2.jpg) 50% 0 repeat-y fixed;
 	color: #fff;
 	background-size: cover;
 }
