@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.59eef338.css",
-    "main.js": "/static/js/main.566e1d8f.js",
+    "main.css": "/static/css/main.2306dcdc.css",
+    "main.js": "/static/js/main.7e60a512.js",
     "static/js/787.381967a9.chunk.js": "/static/js/787.381967a9.chunk.js",
+    "static/media/atropos-forest-back.svg": "/static/media/atropos-forest-back.f000dc8f4cb90dea2d9c9433b11b8fe8.svg",
+    "static/media/atropos-forest-mid.svg": "/static/media/atropos-forest-mid.e3f6139a72b24bd1888df171f2c690d9.svg",
+    "static/media/atropos-forest-front.svg": "/static/media/atropos-forest-front.788aa8186fa19be5631b2c1bacd6c89d.svg",
+    "static/media/coming-soon.png": "/static/media/coming-soon.604b3964d4e900924e57.png",
+    "static/media/atropos-bg.svg": "/static/media/atropos-bg.f623f8960f7ea032117909feb04741b8.svg",
+    "static/media/atropos-mountains.svg": "/static/media/atropos-mountains.c6cb9943e381a42da2043c1a29fc4a3a.svg",
     "index.html": "/index.html",
-    "main.59eef338.css.map": "/static/css/main.59eef338.css.map",
-    "main.566e1d8f.js.map": "/static/js/main.566e1d8f.js.map",
+    "main.2306dcdc.css.map": "/static/css/main.2306dcdc.css.map",
+    "main.7e60a512.js.map": "/static/js/main.7e60a512.js.map",
     "787.381967a9.chunk.js.map": "/static/js/787.381967a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59eef338.css",
-    "static/js/main.566e1d8f.js"
+    "static/css/main.2306dcdc.css",
+    "static/js/main.7e60a512.js"
   ]
 }
