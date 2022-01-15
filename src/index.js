@@ -1,19 +1,18 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import App from './App';
-import AppDev from "./AppDev";
-import Nav from "./Nav";
-import BottomNav from "./BottomNav";
+import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import { BrowserRouter } from "react-router-dom";
 import "antd/dist/antd.css";
-import "./index.css";
+import "./css/index.css";
+import "./css/App.css";
 
 ReactDOM.render(
   <React.StrictMode>
     <>
-      <Nav />
-      <AppDev />
-      <BottomNav />
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
     </>
   </React.StrictMode>,
   document.getElementById("root")

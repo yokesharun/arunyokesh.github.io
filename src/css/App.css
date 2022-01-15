@@ -1,15 +1,14 @@
 .parallex-container {
-  padding: 0px 40px;
+  padding: 0px 3rem;
   max-width: 960px;
-  margin: 30px auto;
-  display: flex;
-  justify-content: space-between;
+  margin: 4rem auto;
   box-sizing: border-box;
   width: 960px;
 }
 
 .atropos-banner {
   width: 100%;
+  margin-top: 7%;
 }
 .atropos-banner .atropos-inner {
   border-radius: 10px;
@@ -50,28 +49,27 @@
   top: 0%;
 }
 
-#top-menu{
-  background-color: transparent;
-  border-color: transparent;
+#top-menu {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 5%;
+  background-color: transparent;
+  border-color: transparent;
   margin-top: 3%;
 }
 
-#top-menu li:hover{
+#top-menu li:hover {
   color: #fff;
   background-color: #0f3057;
 }
 
-#top-menu li{
+#top-menu li {
   color: #0f3057;
   font-size: medium;
   background-color: transparent;
 }
 
-#bottom-menu{
+#bottom-menu {
   background-color: transparent;
   border-color: transparent;
   display: flex;
@@ -80,19 +78,82 @@
   margin-top: 5%;
 }
 
-#bottom-menu li:hover{
+#bottom-menu li:hover {
   border: none !important;
-  color: #00587A;
+  color: #00587a;
   /* background-color: #0f3057; */
   /* border-bottom: 2px solid #0f3057; */
 }
 
-#bottom-menu li{
+#bottom-menu li {
   background-color: transparent;
   color: #008891;
   font-size: 18px;
 }
 
-.external-links{
-  color: #00587A;
+.external-links {
+  color: #00587a;
+}
+
+a {
+  color: #0f3057 !important;
+}
+
+a:hover {
+  color: #ffffff !important;
+}
+
+.avatar {
+  height: 200px;
+  border-radius: 100px;
+  margin-right: 2rem;
+}
+
+.content {
+  font-size: large;
+  color: #0f3057;
+}
+
+.external-link {
+  font-style: italic;
+  font-weight: 700;
+}
+
+.skill-container {
+  padding-right: 20px;
+}
+
+.skill-container h3 {
+  padding-top: 10px;
+}
+
+.heading {
+  font-size: xx-large;
+  font-weight: 700;
+  background-image: -webkit-linear-gradient(#f037a5, #2d46b9 95%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.card {
+  font-size: medium;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.project-link {
+  color: #00587a !important;
+  font-style: italic;
+}
+
+.project-link:hover {
+  color: #00587a !important;
+}
+
+.project-heading {
+  margin: 0;
+  color: #00587a;
 }
