@@ -36,8 +36,8 @@ const About = () => {
             </p>
             <p className="content">
               I have started my career as a PHP developer in 2014 and Developed
-              my skills towards CodeIgniter and Laravel Frameworks. In 2017 we
-              have started out on knowlegde base Saas Product called{" "}
+              my skills towards JavaScript, React JS, Laravel and CodeIgniter. In 2017 we
+              have started a knowledge base SaaS Product called{" "}
               <a
                 href="https://helptier.com/"
                 target="_blank"
