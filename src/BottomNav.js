@@ -37,7 +37,7 @@ const BottomNav = () => {
       </Menu.Item>
       <Menu.Item key="youtube">
         <a
-          href="https://arunyokesh.medium.com/"
+          href="https://www.youtube.com/channel/UCOxXtnAYx2cSadyK1zSqomw"
           target="_blank"
           rel="noreferrer"
           className="external-links"
@@ -47,7 +47,7 @@ const BottomNav = () => {
       </Menu.Item>
       <Menu.Item key="medium">
         <a
-          href="https://www.youtube.com/channel/UCOxXtnAYx2cSadyK1zSqomw"
+          href="https://arunyokesh.medium.com/"
           target="_blank"
           rel="noreferrer"
           className="external-links"
