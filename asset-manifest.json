@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.df450903.css",
-    "main.js": "/static/js/main.2276a567.js",
+    "main.css": "/static/css/main.6ec9561e.css",
+    "main.js": "/static/js/main.b9279624.js",
     "static/js/787.381967a9.chunk.js": "/static/js/787.381967a9.chunk.js",
     "static/media/atropos-forest-back.svg": "/static/media/atropos-forest-back.f000dc8f4cb90dea2d9c9433b11b8fe8.svg",
     "static/media/atropos-forest-mid.svg": "/static/media/atropos-forest-mid.e3f6139a72b24bd1888df171f2c690d9.svg",
+    "static/media/arun-yokesh-avatar.png": "/static/media/arun-yokesh-avatar.21099e376f8ec32ab053.png",
     "static/media/atropos-forest-front.svg": "/static/media/atropos-forest-front.788aa8186fa19be5631b2c1bacd6c89d.svg",
     "static/media/profile-name.png": "/static/media/profile-name.f109b192d4d69886c6f5.png",
     "static/media/atropos-bg.svg": "/static/media/atropos-bg.f623f8960f7ea032117909feb04741b8.svg",
     "static/media/atropos-mountains.svg": "/static/media/atropos-mountains.13129acc50966a24f1b8efe07e1400d7.svg",
     "index.html": "/index.html",
-    "main.df450903.css.map": "/static/css/main.df450903.css.map",
-    "main.2276a567.js.map": "/static/js/main.2276a567.js.map",
+    "main.6ec9561e.css.map": "/static/css/main.6ec9561e.css.map",
+    "main.b9279624.js.map": "/static/js/main.b9279624.js.map",
     "787.381967a9.chunk.js.map": "/static/js/787.381967a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df450903.css",
-    "static/js/main.2276a567.js"
+    "static/css/main.6ec9561e.css",
+    "static/js/main.b9279624.js"
   ]
 }
